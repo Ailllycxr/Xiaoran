@@ -1,6 +1,11 @@
 function Resume(){
     return(
-        <div>“Resume hello”</div>
+        <>
+        <div>“Resume”</div>
+        <p>
+        
+        </p>
+        </>
     )
 }
 
