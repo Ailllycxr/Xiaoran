@@ -1,8 +1,15 @@
 function Footer () {
     return (
       <footer className="footer">
-        <p>Author: Hege Refsnes
-            <a href="mailto:hege@example.com">hege@example.com</a>
+        <p>Author: Xiaoran</p>
+        <p>Email:
+            <a href="ABC.com">ABC.com</a>
+        </p>
+        <p>LinkedIn:
+            <a href="ABC.com">ABC.com</a>
+        </p>
+        <p>GitHub:
+            <a href="githubabc.com">abc.github</a>
         </p>
       </footer>
     );
