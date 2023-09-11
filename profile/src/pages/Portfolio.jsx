@@ -7,40 +7,40 @@ import picture6 from "../assets/projectPicture6.png";
 
 const projects = [
   {
-    title: "Project 1",
+    title: "Wealth Wise",
     imageSrc: picture1,
-    deployedLink: "https://example.com/project1",
-    githubRepo: "https://github.com/yourusername/project1",
+    deployedLink: "https://weathwise-fdcd16b2c8c7.herokuapp.com",
+    githubRepo: "https://github.com/Ailllycxr/WeathWise",
   },
   {
-    title: "Project 2",
+    title: "Cypto Dashboard",
     imageSrc: picture2,
-    deployedLink: "https://example.com/project1",
-    githubRepo: "https://github.com/yourusername/project1",
+    deployedLink: "https://ailllycxr.github.io/cryptoDashboard/",
+    githubRepo: "https://github.com/Ailllycxr/cryptoDashboard",
   },
   {
-    title: "Project 3",
+    title: "Generating Password",
     imageSrc: picture3,
-    deployedLink: "https://example.com/project1",
-    githubRepo: "https://github.com/yourusername/project1",
+    deployedLink: " https://ailllycxr.github.io/GeneratingPW/",
+    githubRepo: "https://github.com/Ailllycxr/GeneratingPW",
   },
   {
-    title: "Project 4",
+    title: "3rd Party API",
     imageSrc: picture4,
-    deployedLink: "https://example.com/project1",
-    githubRepo: "https://github.com/yourusername/project1",
+    deployedLink: "https://github.com/Ailllycxr/3PartyAPI/",
+    githubRepo: " https://ailllycxr.github.io/3PartyAPI/",
   },
   {
     title: "Project 5",
     imageSrc: picture5,
-    deployedLink: "https://example.com/project1",
-    githubRepo: "https://github.com/yourusername/project1",
+    deployedLink: "https://github.com/Ailllycxr/weatherPage",
+    githubRepo: "https://ailllycxr.github.io/weatherPage/",
   },
   {
-    title: "Project 6",
+    title: "SVG",
     imageSrc: picture6,
     deployedLink: "https://example.com/project1",
-    githubRepo: "https://github.com/yourusername/project1",
+    githubRepo: "https://github.com/Ailllycxr/OOP",
   },
 ];
 function Porfolio() {
